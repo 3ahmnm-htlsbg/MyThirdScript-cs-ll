@@ -18,7 +18,7 @@ WebGL (refRes: 1280x720)
 ### Screenshot: 
 
 <div>
-<img src = "./Scnreenshots/home-pic-playmode-mythirdscript-addnumbers-cs-ll.png" width = "500">s
+<img src = "./Screenshots/Home-pic-playmode-MyThirdScript-AddNumbers-cs-ll.png" width = "500">
 </div>
 
 
